@@ -2,6 +2,6 @@
 
 echo "hi";die;
 
-test
+test;
 
 ?>
