@@ -2,4 +2,6 @@
 
 echo "hi";die;
 
+test
+
 ?>
